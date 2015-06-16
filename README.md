@@ -13,6 +13,11 @@ Xamarin is hosting forums for CocosSharp here:
 
 http://forums.xamarin.com/categories/cocossharp
 
+Chat
+----
+
+We have a chat room at http://xamarinchat.slack.com on the channel #cocossharp
+
 Learn More
 ----------
 
